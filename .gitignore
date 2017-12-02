@@ -18,6 +18,7 @@ opencv/
 convnet/
 decaf/
 submission/
+backup/
 darknet
 .fuse*
 
