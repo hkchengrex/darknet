@@ -5,6 +5,9 @@
 *.png
 *.jpg
 *.pyc
+*.conv.*
+*.weights
+*.so
 old/
 mnist/
 data/
@@ -15,7 +18,6 @@ opencv/
 convnet/
 decaf/
 submission/
-cfg/
 darknet
 .fuse*
 
