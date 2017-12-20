@@ -1,0 +1,4 @@
+classes = 1
+train = train.txt
+names = reasonNet.names
+backup = backup_Rt2
