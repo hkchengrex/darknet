@@ -8,6 +8,7 @@
 *.conv.*
 *.weights
 *.so
+*.backup
 old/
 mnist/
 data/
